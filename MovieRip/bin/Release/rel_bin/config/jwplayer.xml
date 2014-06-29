@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jwplayer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <skin>lightrv5.zip</skin>
+  <startMovie>http://www.youtube.com/v/ON-7v4qnHP8</startMovie>
+</jwplayer>
